@@ -42,3 +42,9 @@ Grade: Ongoing
 	- Direct Routing
 	- Inter-VLAN Routing
 	- Static Routing
+7. **Routing Demonstrations**
+	- Static Routing
+	- SVI, L2 vs L3 Interface
+	- Administrative Distance
+	- The rule of the Longest Match
+	- OSPF
