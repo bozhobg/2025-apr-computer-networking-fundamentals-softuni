@@ -31,3 +31,8 @@ Grade: Ongoing
 	- Securing Network Device Access: securing vty, console access, password reset
 	- Introduction to VLANs
 	- VLAN Details: access (untagged) ports, trunk (tagged) ports, native vlan
+5. **Layer 2 Redundancy - Spanning Tree Protocol**
+	- Spanning Tree Protocol (STP): algorithm, root switch, root ports, designated ports
+	- STP tie-breakers, BPDU, Bridge ID and Priority
+	- Rapid STP (RSTP)
+	- Per-VLAN STP plus (PVST+)
