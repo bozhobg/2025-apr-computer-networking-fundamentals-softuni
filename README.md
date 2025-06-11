@@ -45,6 +45,9 @@ Grade: Ongoing
 7. **Routing Demonstrations**
 	- Static Routing
 	- SVI, L2 vs L3 Interface
-	- Administrative Distance
 	- The rule of the Longest Match
-	- OSPF
+8. **Dynamic Routing with OSPF**
+	- Introduction to Dynamic Routing
+	- OSPF Introduction
+	- Single Area OSPF Configuration
+	- Administrative Distance vs Rule of the Longest Match
