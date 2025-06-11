@@ -26,3 +26,8 @@ Grade: Ongoing
 	- Subnetting
 	- Broadcast Domain
 	- CIDR and VLSM
+4. **Network Access, Security and VLANs**
+	- Accessing Networking Devices: SSH and Telnet connectivity
+	- Securing Network Device Access: securing vty, console access, password reset
+	- Introduction to VLANs
+	- VLAN Details: access (untagged) ports, trunk (tagged) ports, native vlan
