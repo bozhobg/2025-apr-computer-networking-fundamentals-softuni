@@ -10,5 +10,12 @@ Grade: Ongoing
 1. **Introduction to networks**
 	- Basic Concepts: brief introduction to types of devices, networking topologies, protocols, types of media, traffic types
 	- IP and MAC Addresses
-	- OSI and TCP/IP Model
+	- OSI and TCP/IP Model: data flow, encapsulation/decapsulation
 	- Introduction to Cisco Packet Tracer
+2. **IP Addresses and Host-to-Host Communication - Part 1**
+	- Binary, Decimal and Hexadecimal Numbers
+	- IPv4 - Details: network address, subnet mask, broadcast address, first and last host address, total number of hosts
+	- Host-to-Host Communication without Routers
+	- The ARP table
+	- Basic Connectivity Checks
+	- The Command Line
