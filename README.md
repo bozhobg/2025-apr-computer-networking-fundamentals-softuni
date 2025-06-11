@@ -19,3 +19,10 @@ Grade: Ongoing
 	- The ARP table
 	- Basic Connectivity Checks
 	- The Command Line
+3. **IP Addresses and Host-to-Host Communication - Part 1**
+	- Host-to-host Communication with Routers
+	- Switch MAC Address Table
+	- Device Memory Components
+	- Subnetting
+	- Broadcast Domain
+	- CIDR and VLSM
