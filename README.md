@@ -36,3 +36,9 @@ Grade: Ongoing
 	- STP tie-breakers, BPDU, Bridge ID and Priority
 	- Rapid STP (RSTP)
 	- Per-VLAN STP plus (PVST+)
+6. **IP Services and Basic Routing**
+	- IP Services: DHCP and DNS
+	- Introduction to Routing
+	- Direct Routing
+	- Inter-VLAN Routing
+	- Static Routing
