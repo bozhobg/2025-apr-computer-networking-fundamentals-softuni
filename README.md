@@ -56,3 +56,6 @@ Grade: Ongoing
 	- 2 scenarios done on PCT (as closely as possible without using NAT and vlan networks routing not isolated through access lists). 		
 	- Scenario 1: 2 separate VLANs routed through router on a stick to the outside world, DHCP server on switch and separate Web+DNS Server in one of the VLANs, wireless access through Wireless Controller - 2 separate SSID for each vlan
 	- Scenrio 2: 2 separate VLAN networks routed through L3 switch, DHCP+Web+DNS Server on separate network, wireless access through Wireless Controller - 2 separate SSID for each vlan
+10. **Exam Preparation**
+	- Course summary
+	- Example exam solution
