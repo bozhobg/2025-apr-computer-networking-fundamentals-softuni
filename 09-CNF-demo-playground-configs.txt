@@ -1,0 +1,19 @@
+vlan 1 left as management and native
+Couldn't set management on vlan 99 to work properly or I don't know how
+
+10.99.99.4 /24 WLC management IP
+
+
+SystemName: SoftUni
+user: admin
+pass: SoftUni1 
+
+SSID: SoftUniCorp
+Security: WPA2-PSK
+Passphrase: Employee
+Encryption: AES
+
+SSID: SoftUniGuest
+Security: WPA2-PSK
+Passphrase: SoftUniGuest
+Encryption: AES
