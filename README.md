@@ -3,7 +3,7 @@
 
 Course aims to introduce students to computer networks, their fundamental principles of operation and details about how they function. Begins with introduction to basic concepts and gradually delves into different networking protocols. Course is not vendor specific and focuses on industrial standards and open protocols. 
 
-Grade: Ongoing
+Grade: 6.00/6.00 
 
 ### Course Structure  
 
